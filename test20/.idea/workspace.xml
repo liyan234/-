@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17bb520b-770f-4205-a25b-a4499aaea13e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="20200315" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Kotlin Class" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z93TLtpM62FruowoYAh4Mqr7Nd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../网络编程2/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.1598778" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\所谓爱隔山海\Desktop\java_lanuage\网络编程2\src" />
+      <recent name="C:\Users\所谓爱隔山海\Desktop\java_lanuage\JDBC\libs" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="TCP" />
+      <recent name="UDP" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="线程池" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.GlobeVolume">
+    <configuration name="DifferentPlan" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src16.DifferentPlan" />
+      <module name="题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GlobeVolume" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src18.GlobeVolume" />
+      <module name="题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src17.ReverseWord" />
+      <module name="题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src16.Sort" />
+      <module name="题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src16.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="playgame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src18.playgame" />
+      <module name="题" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src18.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.DifferentPlan" />
+      <item itemvalue="Application.GlobeVolume" />
+      <item itemvalue="Application.ReverseWord" />
+      <item itemvalue="Application.Sort" />
+      <item itemvalue="Application.playgame" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GlobeVolume" />
+        <item itemvalue="Application.playgame" />
+        <item itemvalue="Application.ReverseWord" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.DifferentPlan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17bb520b-770f-4205-a25b-a4499aaea13e" name="Default Changelist" comment="" />
+      <created>1584237489242</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584237489242</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="441" y="109" key="#Project_Structure" timestamp="1593869235094">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="441" y="109" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593869235094" />
+    <state x="992" y="321" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592728016186">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="992" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1592728016186" />
+    <state x="654" y="152" key="#com.intellij.ide.util.MemberChooser" timestamp="1593865396727">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="654" y="152" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593865396727" />
+    <state x="473" y="88" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586706742447">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="473" y="88" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586706742447" />
+    <state x="433" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1594174545370">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="433" y="356" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1594174545370" />
+    <state x="628" y="336" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1592657416612">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="628" y="336" width="439" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1592657416612" />
+    <state x="579" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592471724994">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="579" y="198" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1592471724994" />
+    <state x="381" y="212" key="FileChooserDialogImpl" timestamp="1591001279388">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="381" y="212" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1591001279388" />
+    <state width="1126" height="108" key="GridCell.Tab.0.bottom" timestamp="1594259495849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1126" height="108" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594259495849" />
+    <state width="1126" height="108" key="GridCell.Tab.0.center" timestamp="1594259495849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1126" height="108" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594259495849" />
+    <state width="1126" height="108" key="GridCell.Tab.0.left" timestamp="1594259495848">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1126" height="108" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594259495848" />
+    <state width="1126" height="108" key="GridCell.Tab.0.right" timestamp="1594259495849">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1126" height="108" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594259495849" />
+    <state width="1493" height="186" key="GridCell.Tab.1.bottom" timestamp="1589389778659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589389778659" />
+    <state width="1493" height="186" key="GridCell.Tab.1.center" timestamp="1589389778659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589389778659" />
+    <state width="1493" height="186" key="GridCell.Tab.1.left" timestamp="1589389778659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589389778659" />
+    <state width="1493" height="186" key="GridCell.Tab.1.right" timestamp="1589389778659">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="186" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589389778659" />
+    <state x="206" y="117" width="996" height="707" key="SettingsEditor" timestamp="1591001440416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="206" y="117" width="996" height="707" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1591001440416" />
+    <state x="614" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1594302531010">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="614" y="286" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1594302531010" />
+    <state x="356" y="17" key="new project wizard" timestamp="1594302984728">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="17" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1594302984728" />
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1592824890801">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="39" key="refactoring.ChangeSignatureDialog/0.0.1536.824@0.0.1536.824" timestamp="1592824890801" />
+    <state x="298" y="335" key="run.anything.popup" timestamp="1588851927645">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="298" y="335" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1588851927645" />
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup" timestamp="1594174040900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="430" y="146" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1594174040900" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../20200315_homwork/src/homework.java</url>
+          <line>4</line>
+          <properties class="homework">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/../Test_20200430/src/Test.java</url>
+          <line>2</line>
+          <properties class="Test" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Test_20200406/src/MainThree.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../Test_20200406/src/MainThree.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/20200315$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1585319595245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/20200315$Main.ic" NAME="Main Coverage Results" MODIFIED="1584885560913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
